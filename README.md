@@ -1,2 +1,2 @@
 # BluetoothControlledRelay
-Code for a Bluetooth controlled relay.
+Code for a secure Bluetooth controlled relay.
